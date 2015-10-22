@@ -1,0 +1,241 @@
+Working for user NGIC_UWAsst_1..
+User Already Exists..
+
+
+Working for user NGIC_UWAsst_2..
+User Already Exists..
+
+
+Working for user NGIC_UWAsst_3..
+User Already Exists..
+
+
+Working for user Ont_UW_1..
+User Already Exists..
+
+
+Working for user Ont_UW_2..
+User Already Exists..
+
+
+Working for user Ont_UW_3..
+User Already Exists..
+
+
+Working for user Ont_UW_HA_1..
+User Already Exists..
+
+
+Working for user Ont_UW_HA_2..
+User Already Exists..
+
+
+Working for user Ont_UW_HA_3..
+User Already Exists..
+
+
+Working for user Ont_Broker_1..
+User Already Exists..
+
+
+Working for user Qub_UW_1..
+User Already Exists..
+
+
+Working for user Qub_UW_2..
+User Already Exists..
+
+
+Working for user Qub_UW_3..
+User Already Exists..
+
+
+Working for user Qub_UW_HA_1..
+User Already Exists..
+
+
+Working for user Qub_UW_HA_2..
+User Already Exists..
+
+
+Working for user Qub_UW_HA_3..
+User Already Exists..
+
+
+Working for user Qub_Broker_1..
+User Already Exists..
+
+
+Working for user Wes_UW_1..
+User Already Exists..
+
+
+Working for user Wes_UW_2..
+User Already Exists..
+
+
+Working for user Wes_UW_3..
+User Already Exists..
+
+
+Working for user Wes_UW_HA_1..
+Exception Occured while adding user Wes_UW_HA_1
+ Message : Error Occured: Cannot insert the value NULL into column 'EntityID', table 'ExampleData.dbo.DC_PLT_UserEntityMemberships'; column does not allow nulls. INSERT fails.
+Process ID 53 has raised user error 50000, severity 20. SQL Server is terminating this process.
+A severe error occurred on the current command.  The results, if any, should be discarded.
+
+
+Working for user Wes_UW_HA_2..
+Exception Occured while adding user Wes_UW_HA_2
+ Message : Error Occured: Cannot insert the value NULL into column 'EntityID', table 'ExampleData.dbo.DC_PLT_UserEntityMemberships'; column does not allow nulls. INSERT fails.
+Process ID 53 has raised user error 50000, severity 20. SQL Server is terminating this process.
+A severe error occurred on the current command.  The results, if any, should be discarded.
+
+
+Working for user Wes_UW_HA_3..
+Exception Occured while adding user Wes_UW_HA_3
+ Message : Error Occured: Cannot insert the value NULL into column 'EntityID', table 'ExampleData.dbo.DC_PLT_UserEntityMemberships'; column does not allow nulls. INSERT fails.
+Process ID 53 has raised user error 50000, severity 20. SQL Server is terminating this process.
+A severe error occurred on the current command.  The results, if any, should be discarded.
+
+
+Working for user Wes_Broker_1..
+User Already Exists..
+
+
+Working for user Atl_UW_1..
+User Already Exists..
+
+
+Working for user Atl_UW_2..
+User Already Exists..
+
+
+Working for user Atl_UW_3..
+User Already Exists..
+
+
+Working for user Atl_UW_HA_1..
+User Already Exists..
+
+
+Working for user Atl_UW_HA_2..
+User Already Exists..
+
+
+Working for user Atl_UW_HA_3..
+User Already Exists..
+
+
+Working for user Atl_Broker_1..
+User Already Exists..
+
+
+Working for user ZIC_Cypher_1..
+User Already Exists..
+
+
+Working for user ZIC_Cypher_2..
+User Already Exists..
+
+
+Working for user ZIC_Cypher_3..
+User Already Exists..
+
+
+Working for user ZIC_SBA_1..
+User Already Exists..
+
+
+Working for user ZIC_SBA_2..
+User Already Exists..
+
+
+Working for user ZIC_SBA_3..
+User Already Exists..
+
+
+Working for user FIC_SDR_1..
+User Already Exists..
+
+
+Working for user FIC_SDR_2..
+User Already Exists..
+
+
+Working for user FIC_SDR_3..
+User Already Exists..
+
+
+Working for user FIC_CSR_1..
+User Already Exists..
+
+
+Working for user FIC_CSR_2..
+User Already Exists..
+
+
+Working for user FIC_CSR_3..
+User Already Exists..
+
+
+Working for user FIC_RSC_1..
+User Already Exists..
+
+
+Working for user FIC_RSC_2..
+User Already Exists..
+
+
+Working for user FIC_RSC_3..
+User Already Exists..
+
+
+Working for user OrgFIC_UW_1..
+User Already Exists..
+
+
+Working for user OrgFIC_UW_2..
+User Already Exists..
+
+
+Working for user OrgFIC_UW_3..
+User Already Exists..
+
+
+Working for user OrgFIC_UW_4..
+User Already Exists..
+
+
+Working for user OrgFIC_UW_HA_1..
+User Already Exists..
+
+
+Working for user OrgFIC_UW_HA_2..
+User Already Exists..
+
+
+Working for user OrgFIC_UW_HA_3..
+User Already Exists..
+
+
+Working for user OrgFIC_UW_HA_4..
+User Already Exists..
+
+
+Working for user Sys_Admin..
+User Already Exists..
+
+
+Working for user Bus_Admin..
+User Already Exists..
+
+
+Working for user Billing..
+User Already Exists..
+
+
+Working for user Claim_Aud_Bil..
+User Already Exists..
+
+
